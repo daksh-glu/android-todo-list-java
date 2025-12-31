@@ -41,7 +41,10 @@ app/
 ---
 
 ## 📸 Screenshots
-_(Add screenshots of your app here)_
+
+<img src="screenshots/home.png" width="250" />
+
+https://github.com/user-attachments/assets/41c00fe5-91cf-423b-b7a3-8438a12ee4ff
 
 ---
 
